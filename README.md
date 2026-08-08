@@ -6,7 +6,7 @@ This project was developed as part of my internship at Valentius Kryptix.
 
 🌐 Live Demo
 
-📌 Project Overview
+**📌 Project Overview**
 
 The AdventureX landing page provides users with an engaging and responsive interface for discovering adventure activities and travel destinations.
 
@@ -15,28 +15,28 @@ The website includes:<br>
 2.ero section with call-to-action <br>
 3.Adventure activities section <br>
 4.Popular destinations <br>
-5.4-step booking process
-6.Customer testimonials
-7.Final call-to-action section
-8.Responsive footer
-9.Mobile hamburger menu
-10.Hover effects and animations
+5.4-step booking process <br>
+6.Customer testimonials <br>
+7.Final call-to-action section <br>
+8.Responsive footer <br>
+9.Mobile hamburger menu <br>
+10.Hover effects and animations <br>
 
-🛠️ Technologies Used
-1.HTML5
-2.CSS3
-3.JavaScript
-4.Google Fonts
-5.Font Awesome
+**🛠️ Technologies Used** <br> 
+1.HTML5 <br>
+2.CSS3 <br>
+3.JavaScript <br>
+4.Google Fonts <br>
+5.Font Awesome <br>
 
-📱 Responsive Design
-The website is designed to work across different screen sizes:
-📱 Mobile — 375px+
-📱 Tablet — 768px+
-💻 Desktop — 1280px+
-CSS media queries, Grid, and Flexbox are used to create the responsive layouts.
+**📱 Responsive Design** <br>
+The website is designed to work across different screen sizes: <br>
+📱 Mobile — 375px+ <br>
+📱 Tablet — 768px+ <br>
+💻 Desktop — 1280px+ <br>
+CSS media queries, Grid, and Flexbox are used to create the responsive layouts. <br>
 
-✨ Key Features
+**✨ Key Features** <br>
 **Responsive Navbar**-The navigation bar includes links to the main sections of the website and a mobile hamburger menu.
 
 **Hero Section**-A visually engaging hero section introduces AdventureX with a clear headline, description, call-to-action, and adventure image.
@@ -54,26 +54,26 @@ Bali, Indonesia
 New Zealand
 Iceland
 
-**How It Works**
-The booking process is presented in four simple steps:
-Choose Destination
-Select Date
-Confirm Booking
-Start Adventure
+**How It Works** <br>
+The booking process is presented in four simple steps: <br>
+Choose Destination <br>
+Select Date <br>
+Confirm Booking <br>
+Start Adventure <br>
 
-🎯 Key Learnings
+**🎯 Key Learnings** <br>
 
-**Through this project, I learned:**
-How to create responsive layouts using CSS Grid, Flexbox, and media queries.
-How to build a consistent design system using reusable CSS variables, typography, colors, spacing, and hover effects.
-How to implement a responsive mobile navigation menu using JavaScript.
-How to organize a complete landing page into reusable and structured sections.
+**Through this project, I learned:** <br>
+How to create responsive layouts using CSS Grid, Flexbox, and media queries. <br>
+How to build a consistent design system using reusable CSS variables, typography, colors, spacing, and hover effects. <br>
+How to implement a responsive mobile navigation menu using JavaScript. <br>
+How to organize a complete landing page into reusable and structured sections. <br>
 
-👩‍💻 Internship Project
+**👩‍💻 Internship Project** <br>
 
-**Internship:** Valentius Kryptix
-**Project:** HTML/CSS Landing Page
-**Project Name:** AdventureX
+**Internship:** Valentius Kryptix <br>
+**Project:** HTML/CSS Landing Page <br>
+**Project Name:** AdventureX <br>
 
-📄 License
+**📄 License** <br>
 This project was created for educational and internship purposes.
