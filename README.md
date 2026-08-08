@@ -12,9 +12,9 @@ The AdventureX landing page provides users with an engaging and responsive inter
 
 The website includes:
 -Responsive navigation bar
-2.Hero section with call-to-action
-3.Adventure activities section
-4.Popular destinations
+-Hero section with call-to-action
+-Adventure activities section
+-Popular destinations
 5.4-step booking process
 6.Customer testimonials
 7.Final call-to-action section
