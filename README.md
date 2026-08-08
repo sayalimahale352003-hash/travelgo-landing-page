@@ -10,7 +10,7 @@ This project was developed as part of my internship at Valentius Kryptix.
 
 The AdventureX landing page provides users with an engaging and responsive interface for discovering adventure activities and travel destinations.
 
-The website includes:
+The website includes:<br>
 Responsive navigation bar  
 
 -Hero section with call-to-action
