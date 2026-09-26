@@ -292,9 +292,7 @@ After implementing the accessibility fixes, the website was scanned again using 
 
 ### After Audit Screenshot
 
-_Add your final WAVE screenshot here._
-
----
+![After Accessibility Audit](After.png)
 
 ## 7. Before and After Comparison
 
