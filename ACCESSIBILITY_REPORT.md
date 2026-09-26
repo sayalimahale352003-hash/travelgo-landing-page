@@ -43,3 +43,27 @@ The mobile navigation button did not have an accessible name.
         aria-expanded="false">
     <i class="fa-solid fa-bars" aria-hidden="true"></i>
 </button>
+
+#### 2. Empty Links
+
+The social media links contained icons but did not have accessible names for screen reader users.
+
+**Fix:** Added descriptive aria-label attributes and marked the decorative icons as hidden from screen readers:
+
+<div class="social-links">
+    <a href="#" aria-label="Facebook">
+        <i class="fab fa-facebook-f" aria-hidden="true"></i>
+    </a>
+
+    <a href="#" aria-label="Instagram">
+        <i class="fab fa-instagram" aria-hidden="true"></i>
+    </a>
+
+    <a href="#" aria-label="Twitter">
+        <i class="fab fa-twitter" aria-hidden="true"></i>
+    </a>
+
+    <a href="#" aria-label="LinkedIn">
+        <i class="fab fa-linkedin-in" aria-hidden="true"></i>
+    </a>
+</div>
