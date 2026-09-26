@@ -36,7 +36,6 @@ ul{
 
 button{
     border:none;
-    outline:none;
     cursor:pointer;
     font-family:inherit;
 }
@@ -48,7 +47,7 @@ VARIABLES
 :root{
     --primary:#0F172A;
     --secondary:#475569;
-    --accent:#F97316;
+    --accent:#B45309;
     --light:#F8FAFC;
     --white:#fff;
 
@@ -162,7 +161,7 @@ header{
 }
 
 .book-btn:hover{
-    background:#EA580C;
+    background:#92400E;
 }
 
 .menu-btn{
@@ -824,4 +823,13 @@ SMALL MOBILE
         width:92%;
     }
 
+}
+/*==================================================
+ACCESSIBILITY - KEYBOARD FOCUS
+==================================================*/
+
+a:focus-visible,
+button:focus-visible {
+    outline: 3px solid #F59E0B;
+    outline-offset: 3px;
 }
