@@ -44,9 +44,7 @@ An initial accessibility audit was performed using the WAVE Web Accessibility Ev
 
 ### Before Audit Screenshot
 
-_Add your initial WAVE screenshot here._
-
----
+![Before Accessibility Audit](Before.png)
 
 ## 4. Issues Identified and Fixes
 
